@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Macbook Pro",
+        "type": "Laptop",
+        "price": "15000000",
+        "stock": "10"
+    },
+    {
+        "name": "Head First Java",
+        "type": "Book",
+        "price": "350000",
+        "stock": "20"
+    },
+    {
+        "name": "Professional Apache Tomcat 8",
+        "type": "Book",
+        "price": "300000",
+        "stock": "20"
+    }
+]
